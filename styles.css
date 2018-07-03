@@ -1,0 +1,5 @@
+/*class to set background color of third element*/
+div.third ul li:nth-child(3){
+    background-color: blue;
+
+}
